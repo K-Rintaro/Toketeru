@@ -1,4 +1,6 @@
 # Toketeru
+<img src="https://img.shields.io/npm/v/toketeru">
+
 Toketeru is the npm package.
 
 You can check boiling points and melting points of elements.
