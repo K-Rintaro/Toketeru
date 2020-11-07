@@ -1,5 +1,5 @@
 # Toketeru
-<img src="https://img.shields.io/npm/v/toketeru">
+<img src="https://img.shields.io/npm/v/toketeru"> <img src="https://img.shields.io/github/license/K-Rintaro/Toketeru">
 
 Toketeru is the npm package.
 
