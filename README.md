@@ -5,6 +5,8 @@ Toketeru is the npm package.
 
 You can check boiling points and melting points of elements.
 
+npm page is https://npmjs.com/toketeru
+
 ## Elements that Toketeru supports
 | Name chemical element     |     Symbol   |
 | ----     |    ----   |
