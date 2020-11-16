@@ -107,14 +107,21 @@ npm page is https://npmjs.com/toketeru
 |Tungsten	|W	|
 
 ## Install
+npm:
 ```
 $ npm install toketeru
+```
+---
+CDN:
+```html
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toketeru@1.1.1/index.js"></script>
 ```
 
 ## Usage
 ```js
 const toketeru = require('toketeru');
 ```
+
 You can check boiling points and melting points from Symbol   (degrees celsius).
 ```js
 var test = toketeru.Au("boil")
